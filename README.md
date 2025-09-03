@@ -1,19 +1,9 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Reflection
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+The most challenging accessibility enhancements I made were when changing
+the HTML semantics since I wasn't aware of this phenomen before. I was used to 
+placing the div element everywhere, so when I had to be more precise and choose specfic elemts I was confused. I didn't fully understand where each of the elements were supposed to be used but after messing around I realized what element should be used where. ARIA attributes improve the experience for users
+relying on assistive technologies by providing additional information about the web content and UI. Since everything is defined appropriately and convenietly, it is much easier for users with disabilities to access and navigate, overall creating an inclusive environment. The tool I used to check the color contrast was called WebAIM Contrast Checker. I used this website, which has a tool to input the color hex value I was using in my css file to check if it passed the contrast ratio for my normal and large text. This helped in making sure I had the right shade and tone of colors to make it accessible for anyone to see my page clearly.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!# Lab2.1-Interactive-Accessibility-Lesson
+Recently learning about these elements having semantic meaning made it more clear to
+me about how detailed work can improve someone's life .
